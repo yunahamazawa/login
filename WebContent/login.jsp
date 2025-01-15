@@ -9,7 +9,7 @@
 </head>
 
 <body>
-	<s:form action="LoginAction"/>
+	<s:form action="LoginAction">
 		<s:textfield name ="name"/>
 		<s:password name ="password"/>
 		<s:submit value ="ログイン"/>
